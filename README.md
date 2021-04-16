@@ -6,10 +6,9 @@
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
-- 🔭 I just try to code only by me
-- 🌱 I’m discord bot developer
+- 🌱 I’m web developer
 - 👯 I’m learning CSS, C++, HTML, JS and PHP
-- 🥅 2020 Goals: Try to code my best DISCORD BOT
+- 🥅 2021 Goals: Create buetiful WEB
 
 ### Spotify Playing 🎧
 
