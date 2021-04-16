@@ -18,6 +18,7 @@
 - 👯 I’m learning CSS, C++, HTML, JS and PHP
 - 🥅 2020 Goals: Try to code my best DISCORD BOT
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakub200CZ)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Spotify Playing 🎧
 
