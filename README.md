@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/website?label=sympyjs.tk&style=for-the-badge&url=https://sympy.xyz)](https://sympy.xyz)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sympy_js?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/sympy_js)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a  Developer!!
 
 - 🌱 I’m web developer
 - 👯 I’m learning CSS, C++, HTML, JS and PHP
