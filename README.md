@@ -11,8 +11,6 @@
 - 👯 I’m learning CSS, C++, HTML, JS and PHP
 - 🥅 2021 Goals: Create buetiful WEB
 
-![PFP](https://sympy.xyz/images/profile.png)
-
 ## I'm a Husband, Father, Developer, and Teacher!!
 
 - 🔭 I just try to code only by me
