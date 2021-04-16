@@ -1,4 +1,3 @@
-# readme
 ### Hi there, I'm Jakub200   [Website] 👋
 
 [![Website](https://img.shields.io/website?label=sympyjs.tk&style=for-the-badge&url=https://sympy.xyz)](https://sympy.xyz)
