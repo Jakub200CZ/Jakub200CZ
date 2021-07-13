@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sympy_js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sympy_js" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/jakub-sedl%C3%A1%C4%8Dek-25782320b?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jakub sedláček" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jakub-sedl%C3%A1%C4%8Dek-25782320b?trk=people-guest_people_search-card" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jakub sedláček" height="30" width="40" /></a>
 <a href="https://instagram.com/jakub200_cz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jakub200_cz" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
