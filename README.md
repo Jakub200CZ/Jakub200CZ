@@ -7,7 +7,8 @@
 
 - I'm currently learning 👨🏼‍🏫 **React.JS**
 
-- My  Website: jakubsedlacek.xyz/
+- My  Website: <a href="https://jakubsedlacek.xyz/" target="blank"> jakubsedlacek.xyz </a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
