@@ -7,6 +7,8 @@
 
 - I'm currently learning 👨🏼‍🏫 **React.JS**
 
+- My  Website: <a href="https://linkedin.com/in/jakubsedlacek04" target="blank"> http://jakubsedlacek.xyz/ </a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sympy_js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sympy_js" height="30" width="40" /></a>
