@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sympy_js" target="blank"><img src="https://img.shields.io/twitter/follow/sympy_js?logo=twitter&style=for-the-badge" alt="sympy_js" /></a> </p>
 
-- I'm currently learning 👨🏼‍🏫 **React.JS**
+- I'm currently learning 👨🏼‍🏫 **vue.js**
 
 - My  Website: <a href="https://jakubsedlacek.xyz/" target="blank"> jakubsedlacek.xyz </a>
 
