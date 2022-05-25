@@ -9,6 +9,8 @@
 
 - My  Website: <a href="https://jakubsedlacek.xyz/" target="blank"> jakubsedlacek.xyz </a>
 
+<a href="https://app.daily.dev/Jakub200cz"><img src="https://api.daily.dev/devcards/867d99a3e4d34b98973482b746a6b272.png?r=qcz" width="400" alt="Jakub Sedláček's Dev Card"/></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
