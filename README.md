@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jakub Sedláček</h1>
 <h3 align="center">Front-end Developer 💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jakub200cz&label=Profile%20views&color=0e75b6&style=flat" alt="jakub200cz" /> </p>
-
-<p align="left"> <a href="https://twitter.com/sympy_js" target="blank"><img src="https://img.shields.io/twitter/follow/sympy_js?logo=twitter&style=for-the-badge" alt="sympy_js" /></a> </p>
-
 - I'm currently learning 👨🏼‍🏫 **vue.js**
 
 - My  Website: <a href="https://jakubsedlacek.xyz/" target="blank"> jakubsedlacek.xyz </a>
