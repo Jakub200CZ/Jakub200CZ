@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jakub Sedláček</h1>
 <h3 align="center">Front-end Developer 💻</h3>
 
-- I'm currently learning 👨🏼‍🏫 **vue.js**
+- I'm currently learning 👨🏼‍🏫 **react.js**
 
 - My  Website: <a href="https://jakubsedlacek.xyz/" target="blank"> jakubsedlacek.xyz </a>
 
