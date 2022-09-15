@@ -1,4 +1,6 @@
+<p align="center">
 <img src="https://i.ibb.co/vLdd4jy/174496519-13882cb7-21d8-4046-aa21-1cf2b805cc20.gif">
+</p>
 
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
