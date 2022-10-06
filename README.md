@@ -12,7 +12,7 @@ Everyday i <b>learning new thinks</b>
 
 # Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,vue,react,git,astro,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,vue,astro,react,git,&theme=dark)](https://skillicons.dev)
 
 # Contact
 
